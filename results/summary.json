@@ -1,0 +1,402 @@
+[
+  {
+    "run_id": "DenseReward_5x5_seed0",
+    "condition": "DenseReward",
+    "grid_size": [
+      5,
+      5
+    ],
+    "seed": 0,
+    "iterations_to_converge": 1190,
+    "convergence_time": 0.6113789081573486,
+    "final_error": 9.935602385269249e-07,
+    "optimal_path_length": 8,
+    "policy_path_length": 1000,
+    "optimality_score": 0.008,
+    "status": "success"
+  },
+  {
+    "run_id": "SparseReward_5x5_seed0",
+    "condition": "SparseReward",
+    "grid_size": [
+      5,
+      5
+    ],
+    "seed": 0,
+    "iterations_to_converge": 23,
+    "convergence_time": 0.007909536361694336,
+    "final_error": 3.895956306454451e-07,
+    "optimal_path_length": 8,
+    "policy_path_length": 8,
+    "optimality_score": 1.0,
+    "status": "success"
+  },
+  {
+    "run_id": "ShapedReward_5x5_seed0",
+    "condition": "ShapedReward",
+    "grid_size": [
+      5,
+      5
+    ],
+    "seed": 0,
+    "iterations_to_converge": 23,
+    "convergence_time": 0.013209819793701172,
+    "final_error": 9.533700335850881e-07,
+    "optimal_path_length": 8,
+    "policy_path_length": 8,
+    "optimality_score": 1.0,
+    "status": "success"
+  },
+  {
+    "run_id": "DeceptiveReward_5x5_seed0",
+    "condition": "DeceptiveReward",
+    "grid_size": [
+      5,
+      5
+    ],
+    "seed": 0,
+    "iterations_to_converge": 1299,
+    "convergence_time": 0.45245814323425293,
+    "final_error": 9.956820292700286e-07,
+    "optimal_path_length": 8,
+    "policy_path_length": 1000,
+    "optimality_score": 0.008,
+    "status": "success"
+  },
+  {
+    "run_id": "NegativeStep_5x5_seed0",
+    "condition": "NegativeStep",
+    "grid_size": [
+      5,
+      5
+    ],
+    "seed": 0,
+    "iterations_to_converge": 23,
+    "convergence_time": 0.007753849029541016,
+    "final_error": 3.8714139405371384e-07,
+    "optimal_path_length": 8,
+    "policy_path_length": 8,
+    "optimality_score": 1.0,
+    "status": "success"
+  },
+  {
+    "run_id": "DenseReward_5x5_seed1",
+    "condition": "DenseReward",
+    "grid_size": [
+      5,
+      5
+    ],
+    "seed": 1,
+    "iterations_to_converge": 1188,
+    "convergence_time": 0.4615652561187744,
+    "final_error": 9.92924729104061e-07,
+    "optimal_path_length": 8,
+    "policy_path_length": 1000,
+    "optimality_score": 0.008,
+    "status": "success"
+  },
+  {
+    "run_id": "SparseReward_5x5_seed1",
+    "condition": "SparseReward",
+    "grid_size": [
+      5,
+      5
+    ],
+    "seed": 1,
+    "iterations_to_converge": 23,
+    "convergence_time": 0.007794857025146484,
+    "final_error": 7.292435125760832e-07,
+    "optimal_path_length": 8,
+    "policy_path_length": 8,
+    "optimality_score": 1.0,
+    "status": "success"
+  },
+  {
+    "run_id": "ShapedReward_5x5_seed1",
+    "condition": "ShapedReward",
+    "grid_size": [
+      5,
+      5
+    ],
+    "seed": 1,
+    "iterations_to_converge": 24,
+    "convergence_time": 0.012476921081542969,
+    "final_error": 7.727491340148163e-07,
+    "optimal_path_length": 8,
+    "policy_path_length": 8,
+    "optimality_score": 1.0,
+    "status": "success"
+  },
+  {
+    "run_id": "DeceptiveReward_5x5_seed1",
+    "condition": "DeceptiveReward",
+    "grid_size": [
+      5,
+      5
+    ],
+    "seed": 1,
+    "iterations_to_converge": 1230,
+    "convergence_time": 0.42638468742370605,
+    "final_error": 9.978759045736751e-07,
+    "optimal_path_length": 8,
+    "policy_path_length": 1000,
+    "optimality_score": 0.008,
+    "status": "success"
+  },
+  {
+    "run_id": "NegativeStep_5x5_seed1",
+    "condition": "NegativeStep",
+    "grid_size": [
+      5,
+      5
+    ],
+    "seed": 1,
+    "iterations_to_converge": 23,
+    "convergence_time": 0.009695768356323242,
+    "final_error": 7.265718441340496e-07,
+    "optimal_path_length": 8,
+    "policy_path_length": 8,
+    "optimality_score": 1.0,
+    "status": "success"
+  },
+  {
+    "run_id": "DenseReward_5x5_seed2",
+    "condition": "DenseReward",
+    "grid_size": [
+      5,
+      5
+    ],
+    "seed": 2,
+    "iterations_to_converge": 1189,
+    "convergence_time": 0.4838716983795166,
+    "final_error": 9.943632726105989e-07,
+    "optimal_path_length": 8,
+    "policy_path_length": 1000,
+    "optimality_score": 0.008,
+    "status": "success"
+  },
+  {
+    "run_id": "SparseReward_5x5_seed2",
+    "condition": "SparseReward",
+    "grid_size": [
+      5,
+      5
+    ],
+    "seed": 2,
+    "iterations_to_converge": 23,
+    "convergence_time": 0.008326530456542969,
+    "final_error": 8.667501264492117e-07,
+    "optimal_path_length": 8,
+    "policy_path_length": 8,
+    "optimality_score": 1.0,
+    "status": "success"
+  },
+  {
+    "run_id": "ShapedReward_5x5_seed2",
+    "condition": "ShapedReward",
+    "grid_size": [
+      5,
+      5
+    ],
+    "seed": 2,
+    "iterations_to_converge": 25,
+    "convergence_time": 0.014116048812866211,
+    "final_error": 3.567727144826449e-07,
+    "optimal_path_length": 8,
+    "policy_path_length": 8,
+    "optimality_score": 1.0,
+    "status": "success"
+  },
+  {
+    "run_id": "DeceptiveReward_5x5_seed2",
+    "condition": "DeceptiveReward",
+    "grid_size": [
+      5,
+      5
+    ],
+    "seed": 2,
+    "iterations_to_converge": 1239,
+    "convergence_time": 0.415682315826416,
+    "final_error": 9.909480418457406e-07,
+    "optimal_path_length": 8,
+    "policy_path_length": 1000,
+    "optimality_score": 0.008,
+    "status": "success"
+  },
+  {
+    "run_id": "NegativeStep_5x5_seed2",
+    "condition": "NegativeStep",
+    "grid_size": [
+      5,
+      5
+    ],
+    "seed": 2,
+    "iterations_to_converge": 23,
+    "convergence_time": 0.008015632629394531,
+    "final_error": 8.688700203762778e-07,
+    "optimal_path_length": 8,
+    "policy_path_length": 8,
+    "optimality_score": 1.0,
+    "status": "success"
+  },
+  {
+    "run_id": "DenseReward_5x5_seed3",
+    "condition": "DenseReward",
+    "grid_size": [
+      5,
+      5
+    ],
+    "seed": 3,
+    "iterations_to_converge": 1187,
+    "convergence_time": 0.35671544075012207,
+    "final_error": 9.981426636329616e-07,
+    "optimal_path_length": 8,
+    "policy_path_length": 1000,
+    "optimality_score": 0.008,
+    "status": "success"
+  },
+  {
+    "run_id": "SparseReward_5x5_seed3",
+    "condition": "SparseReward",
+    "grid_size": [
+      5,
+      5
+    ],
+    "seed": 3,
+    "iterations_to_converge": 23,
+    "convergence_time": 0.006339550018310547,
+    "final_error": 5.101092108716898e-07,
+    "optimal_path_length": 8,
+    "policy_path_length": 8,
+    "optimality_score": 1.0,
+    "status": "success"
+  },
+  {
+    "run_id": "ShapedReward_5x5_seed3",
+    "condition": "ShapedReward",
+    "grid_size": [
+      5,
+      5
+    ],
+    "seed": 3,
+    "iterations_to_converge": 24,
+    "convergence_time": 0.00982522964477539,
+    "final_error": 4.923988594640605e-07,
+    "optimal_path_length": 8,
+    "policy_path_length": 8,
+    "optimality_score": 1.0,
+    "status": "success"
+  },
+  {
+    "run_id": "DeceptiveReward_5x5_seed3",
+    "condition": "DeceptiveReward",
+    "grid_size": [
+      5,
+      5
+    ],
+    "seed": 3,
+    "iterations_to_converge": 1299,
+    "convergence_time": 0.45012927055358887,
+    "final_error": 9.923465214001226e-07,
+    "optimal_path_length": 8,
+    "policy_path_length": 1000,
+    "optimality_score": 0.008,
+    "status": "success"
+  },
+  {
+    "run_id": "NegativeStep_5x5_seed3",
+    "condition": "NegativeStep",
+    "grid_size": [
+      5,
+      5
+    ],
+    "seed": 3,
+    "iterations_to_converge": 23,
+    "convergence_time": 0.0061817169189453125,
+    "final_error": 5.070019527542158e-07,
+    "optimal_path_length": 8,
+    "policy_path_length": 8,
+    "optimality_score": 1.0,
+    "status": "success"
+  },
+  {
+    "run_id": "DenseReward_5x5_seed4",
+    "condition": "DenseReward",
+    "grid_size": [
+      5,
+      5
+    ],
+    "seed": 4,
+    "iterations_to_converge": 1190,
+    "convergence_time": 0.4310774803161621,
+    "final_error": 9.924917101500341e-07,
+    "optimal_path_length": 8,
+    "policy_path_length": 1000,
+    "optimality_score": 0.008,
+    "status": "success"
+  },
+  {
+    "run_id": "SparseReward_5x5_seed4",
+    "condition": "SparseReward",
+    "grid_size": [
+      5,
+      5
+    ],
+    "seed": 4,
+    "iterations_to_converge": 23,
+    "convergence_time": 0.006744861602783203,
+    "final_error": 6.228419374698646e-07,
+    "optimal_path_length": 8,
+    "policy_path_length": 8,
+    "optimality_score": 1.0,
+    "status": "success"
+  },
+  {
+    "run_id": "ShapedReward_5x5_seed4",
+    "condition": "ShapedReward",
+    "grid_size": [
+      5,
+      5
+    ],
+    "seed": 4,
+    "iterations_to_converge": 24,
+    "convergence_time": 0.011544942855834961,
+    "final_error": 8.611133743841037e-07,
+    "optimal_path_length": 8,
+    "policy_path_length": 8,
+    "optimality_score": 1.0,
+    "status": "success"
+  },
+  {
+    "run_id": "DeceptiveReward_5x5_seed4",
+    "condition": "DeceptiveReward",
+    "grid_size": [
+      5,
+      5
+    ],
+    "seed": 4,
+    "iterations_to_converge": 1229,
+    "convergence_time": 0.3976173400878906,
+    "final_error": 9.97785992495892e-07,
+    "optimal_path_length": 8,
+    "policy_path_length": 1000,
+    "optimality_score": 0.008,
+    "status": "success"
+  },
+  {
+    "run_id": "NegativeStep_5x5_seed4",
+    "condition": "NegativeStep",
+    "grid_size": [
+      5,
+      5
+    ],
+    "seed": 4,
+    "iterations_to_converge": 23,
+    "convergence_time": 0.006319761276245117,
+    "final_error": 6.178665690192986e-07,
+    "optimal_path_length": 8,
+    "policy_path_length": 8,
+    "optimality_score": 1.0,
+    "status": "success"
+  }
+]

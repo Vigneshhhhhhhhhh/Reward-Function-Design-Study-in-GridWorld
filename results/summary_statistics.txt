@@ -1,0 +1,11 @@
+\begin{tabular}{llrrrrr}
+\toprule
+Grid Size & Reward Condition & Mean Convergence Iters & Std & Optimality Score & Policy Quality (%) & Avg Time(s) \\
+\midrule
+5x5 & DenseReward & 1188.8000 & 1.3038 & 0.0080 & 100.0000 & 0.4689 \\
+5x5 & SparseReward & 23.0000 & 0.0000 & 1.0000 & 100.0000 & 0.0074 \\
+5x5 & ShapedReward & 24.0000 & 0.7071 & 1.0000 & 100.0000 & 0.0122 \\
+5x5 & DeceptiveReward & 1259.2000 & 36.5404 & 0.0080 & 100.0000 & 0.4285 \\
+5x5 & NegativeStep & 23.0000 & 0.0000 & 1.0000 & 100.0000 & 0.0076 \\
+\bottomrule
+\end{tabular}

@@ -1,0 +1,10 @@
+=== Key Findings: Reward Function Study ===
+
+--- Grid Size: 5x5 ---
+* SparseReward converged 4.2% faster than ShapedReward on average.
+* DeceptiveReward failed to find optimal policy (timeout) in 0.0% of runs.
+* DeceptiveReward produced paths with an optimality score of 0.008 (Lower = further away from optimal).
+
+--- Statistical Significance Test ---
+Wilcoxon Signed-Rank Test (Shaped vs Sparse Convergence): p-value = 0.125
+  -> Result is NOT statistically significant.

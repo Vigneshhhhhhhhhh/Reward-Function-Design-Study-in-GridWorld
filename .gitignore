@@ -1,0 +1,5 @@
+results/raw/
+results/figures/
+__pycache__/
+*.pyc
+.env
